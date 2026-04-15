@@ -17,10 +17,8 @@
 
 ### 📊 My GitHub Journey
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yayangkasep&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayangkasep&layout=compact&theme=tokyonight" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayangkasep&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=github-dashboard-vision" />
+
 
 
 
