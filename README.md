@@ -18,17 +18,10 @@
 ### 📊 My GitHub Journey
 
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=yayangkasep&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Jardani's Stats" height="195px" />
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayangkasep&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="195px" />
-      </td>
-    </tr>
-  </table>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yayangkasep&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayangkasep&layout=compact&theme=tokyonight" />
 </p>
+
 
 
 ---
