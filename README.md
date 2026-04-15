@@ -16,10 +16,20 @@
 ---
 
 ### 📊 My GitHub Journey
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yayangkasep&show_icons=true&theme=tokyonight&count_private=true" alt="Jardani's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayangkasep&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  <table align="center">
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api?username=yayangkasep&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" alt="Jardani's Stats" height="195px" />
+      </td>
+      <td align="center" style="border: none;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayangkasep&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" height="195px" />
+      </td>
+    </tr>
+  </table>
 </p>
+
 
 ---
 
