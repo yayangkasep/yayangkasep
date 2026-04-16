@@ -78,7 +78,7 @@ I'm an **AI & Vibe Coding Specialist** focused on building fast, beautiful, and 
 ### 🏆 Contributions & Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yayangkasep&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
+  <img src="https://github-profile-trophy-kannan.vercel.app/?username=yayangkasep&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" />
 </p>
 
 <p align="center">
