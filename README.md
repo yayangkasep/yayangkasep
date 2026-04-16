@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=200&section=header&text=Jardani%20Jovonovich&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=AI%20%26%20Vibe%20Coding%20Specialist&descSize=18&descAlignY=72" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=120&section=header&text=Vibe%20Coding%20Active&fontSize=50&animation=fadeIn" width="100%" />
 </p>
+
+<h1 align="center">Hi there 👋 I'm Jardani Jovonovich!</h1>
 
 <p align="center">
   <a href="https://yayangkasep.github.io/github-dashboard-vision/">
