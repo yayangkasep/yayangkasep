@@ -107,9 +107,5 @@ I'm an **AI & Vibe Coding Specialist** focused on building fast, beautiful, and 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=100&section=footer" width="100%" />
-</p>
-
-<p align="center">
   <sub>⚡ Built with Vibe Coding & AI Collaboration</sub>
 </p>
