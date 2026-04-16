@@ -35,29 +35,31 @@ I'm an **AI & Vibe Coding Specialist** focused on building fast, beautiful, and 
 
 ## 🛠️ Skill Cards
 
-<table>
-  <tr>
-    <td align="center" width="50%">
+<table width="100%">
+<tr>
+<td align="center" valign="top" width="50%">
 
-### 🤖 AI & Automation
-![AI Stack](https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white)
+**🤖 AI & Automation**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-API-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-Agents-1c7c2d?style=flat-square&logo=chainlink&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google%20Gemini-Agentic-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Prompt Eng](https://img.shields.io/badge/Prompt%20Engineering-Expert-c084fc?style=flat-square)
 ![Vector DB](https://img.shields.io/badge/Vector%20DB-Pinecone%20%7C%20Supabase-3ECF8E?style=flat-square)
 
-    </td>
-    <td align="center" width="50%">
+</td>
+<td align="center" valign="top" width="50%">
 
-### 💻 Web Development
+**💻 Web Development**
+
 ![Next.js](https://img.shields.io/badge/Next.js-Framework-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Language-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-Styling-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
 ![React](https://img.shields.io/badge/React-UI%20Library-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white)
 
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
@@ -65,8 +67,8 @@ I'm an **AI & Vibe Coding Specialist** focused on building fast, beautiful, and 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yayangkasep&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayangkasep&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=github-dashboard-vision&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yayangkasep&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&card_width=400" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yayangkasep&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=github-dashboard-vision&hide_border=true&card_width=400" />
 </p>
 
 <p align="center">
