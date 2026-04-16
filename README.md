@@ -75,7 +75,7 @@ I'm an **AI & Vibe Coding Specialist** focused on building fast, beautiful, and 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yayangkasep&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
-### 🏆 Contributions & Achievements
+### 🏆 Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yayangkasep&theme=tokyo-night&hide_border=true&area=true" width="100%" />
